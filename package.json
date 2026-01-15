@@ -1,0 +1,28 @@
+{
+  "name": "prediction-market-arbitrage-bot",
+  "version": "1.0.0",
+  "description": "Educational arbitrage bot for Polymarket and Kalshi using pmxt.dev",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "keywords": [
+    "arbitrage",
+    "polymarket",
+    "kalshi",
+    "trading",
+    "bot"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "pmxtjs": "^0.4.4"
+  },
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}

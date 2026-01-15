@@ -1,0 +1,35 @@
+// Configuration for the arbitrage bot
+export const config = {
+  // Market URLs to monitor
+  polymarketUrl: 'https://polymarket.com/event/who-will-trump-nominate-as-fed-chair',
+  kalshiUrl: 'https://kalshi.com/markets/kxfedchairnom/fed-chair-nominee/kxfedchairnom-29',
+
+  // Polling interval in seconds
+  pollIntervalSeconds: 60,
+
+  // Minimum profit margin in cents to execute trade
+  minProfitCents: 0.001,
+
+  // Trading mode: 'YOLO' (all-in) or 'CONSERVATIVE' (fixed amount)
+  tradingMode: 'YOLO',
+
+  // If CONSERVATIVE mode, amount to trade per opportunity (in cents)
+  tradeAmountCents: 100,
+
+  // API credentials (set via environment variables)
+  polymarketPrivateKey: process.env.POLYMARKET_PRIVATE_KEY,
+  kalshiApiKey: process.env.KALSHI_API_KEY,
+  kalshiApiSecret: process.env.KALSHI_API_SECRET,
+
+  // Fuzzy matching threshold (0-1, higher = stricter matching)
+  matchingThreshold: 0.7,
+
+  // Enable dry run mode (no actual trades)
+  dryRun: true,
+
+  // Number of top opportunities to show
+  topNOpportunities: 5,
+
+  // Minimum price threshold - skip markets where YES or NO is <= this value (in cents)
+  minPriceThreshold: 2,
+};
