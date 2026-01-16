@@ -1,3 +1,5 @@
+# Disclaimer: Not financial advice. Educational purposes only.
+
 # Prediction Market Arbitrage Bot
 
 An educational bot that detects and executes synthetic arbitrage strategies between Polymarket and Kalshi. Built with [pmxt](https://pmxt.dev) - the number 1 unified API for prediction markets.
@@ -174,6 +176,8 @@ This is an educational project to demonstrate algorithmic trading concepts.
 - [pmxt.dev Documentation](https://pmxt.dev/docs)
 - [Polymarket API](https://docs.polymarket.com)
 - [Kalshi API](https://docs.kalshi.com)
+
+# Disclaimer: Not financial advice. Educational purposes only.
 
 ## License
 
